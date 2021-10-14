@@ -1,4 +1,4 @@
-path: ['/kaggle/input/indonesian-licence-plate-characters-synthetic/', '/kaggle/input/licence-plates-redone-again/licence_plates_redone_again/dataset/']
+path: [/kaggle/input/indonesian-licence-plate-characters-synthetic/, /kaggle/input/licence-plates-redone-again/licence_plates_redone_again/dataset/]
 train: train/images
 val: test/images
 
