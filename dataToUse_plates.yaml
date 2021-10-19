@@ -1,0 +1,6 @@
+path: /kaggle/input/
+train: indonesian-licence-plate-characters-2/dataset/train/images
+val: indonesian-licence-plate-characters-2/dataset/test/images
+
+nc: 1
+names: ['plate'] 
